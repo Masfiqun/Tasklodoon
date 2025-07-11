@@ -1,17 +1,56 @@
-# to_do_app
+# ✨ Tasklodoon - Beautiful Flutter To-Do App
 
-A new Flutter project.
+Taskify is a simple, elegant, and colorful **To-Do list** app built with Flutter.  
+Designed to be lightweight, fast, and visually appealing, it helps you keep track of your daily tasks effortlessly.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🌟 Features
 
-A few resources to get you started if this is your first Flutter project:
+✅ Add new tasks with a stylish dialog box  
+✅ Check off completed tasks – they get a **red strike-through**  
+✅ Delete individual tasks with a single tap  
+✅ Clear all tasks with a refresh icon (only if tasks exist)  
+✅ Animated UI: smooth text style transitions when tasks are marked complete  
+✅ Glassy cards & modern gradient background for a fresh look  
+✅ Fully responsive UI with modern color palette  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# To_Do_App" 
+## 🖼️ Screenshots
+
+| Home Screen | New Task Dialog |
+|------------|-----------------|
+| <img src="asset/home.jpg" height="400"> | <img src="asset/newtask.jpg" height="400"> |
+
+
+> ⚡ *Tip: You can take screenshots from your emulator or device and add them here.*
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** – UI toolkit
+- **Hive** – Local key-value database for task storage
+- **Dart** – Programming language
+- Custom Widgets & Animated Styles
+
+---
+
+## 📦 Installation & Setup
+
+Make sure you have Flutter installed.  
+If not, check: [flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/taskify.git
+
+# Navigate into the project folder
+cd taskify
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
