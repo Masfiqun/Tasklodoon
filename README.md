@@ -24,7 +24,6 @@ Designed to be lightweight, fast, and visually appealing, it helps you keep trac
 | <img src="asset/home.jpg" height="400"> | <img src="asset/newtask.jpg" height="400"> |
 
 
-> ⚡ *Tip: You can take screenshots from your emulator or device and add them here.*
 
 ---
 
