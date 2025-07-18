@@ -93,7 +93,7 @@ class _HomepageState extends State<Homepage> {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
                     Text(
-                      'Taskify',
+                      'Tasklodoon',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 28,
