@@ -1,6 +1,6 @@
 # ✨ Tasklodoon - Beautiful Flutter To-Do App
 
-Taskify is a simple, elegant, and colorful **To-Do list** app built with Flutter.  
+Tasklodoon is a simple, elegant, and colorful **To-Do list** app built with Flutter.  
 Designed to be lightweight, fast, and visually appealing, it helps you keep track of your daily tasks effortlessly.
 
 ---
