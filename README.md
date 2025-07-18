@@ -43,7 +43,7 @@ If not, check: [flutter.dev/docs/get-started/install](https://flutter.dev/docs/g
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/taskify.git
+git clone https://github.com/Masfiqun/Tasklodoon.git
 
 # Navigate into the project folder
 cd tasklodoon
