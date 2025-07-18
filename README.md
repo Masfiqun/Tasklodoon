@@ -46,7 +46,7 @@ If not, check: [flutter.dev/docs/get-started/install](https://flutter.dev/docs/g
 git clone https://github.com/yourusername/taskify.git
 
 # Navigate into the project folder
-cd taskify
+cd tasklodoon
 
 # Install dependencies
 flutter pub get
